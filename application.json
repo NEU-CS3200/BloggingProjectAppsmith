@@ -3,6 +3,10 @@
     {
       "id": "New Blog Post",
       "isDefault": true
+    },
+    {
+      "id": "ProfilePage",
+      "isDefault": false
     }
   ],
   "viewMode": false,
